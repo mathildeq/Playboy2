@@ -1,11 +1,10 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"A CORPS PERDU \012DES COURBES DES GALBES LA JAMBE LE PIED SUR LE BORD LA TAILLE",
-B
+"A CORPS PERDU \012DES COURBES DES GALBES LA JAMBE LE PIED SUR LE BORD LA TAILLE LA FEMME SON CORPS\012"
 );
 date = "2017-11-14 14:59:33 +0000";
-familyName = "playboy-fin";
+familyName = "playboy-tres-fin";
 fontMaster = (
 {
 ascender = 800;
@@ -1673,7 +1672,7 @@ unicode = 0048;
 },
 {
 glyphname = I;
-lastChange = "2017-12-02 15:14:47 +0000";
+lastChange = "2017-12-17 10:38:25 +0000";
 layers = (
 {
 layerId = "8163A9A7-FEB5-4584-B00B-7D9977804228";
@@ -2412,7 +2411,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2017-12-14 12:35:15 +0000";
+lastChange = "2017-12-17 10:40:53 +0000";
 layers = (
 {
 layerId = "8163A9A7-FEB5-4584-B00B-7D9977804228";
@@ -2420,6 +2419,7 @@ paths = (
 {
 closed = 1;
 nodes = (
+"79 564 OFFCURVE",
 "166 689 OFFCURVE",
 "299 689 CURVE SMOOTH",
 "403 689 OFFCURVE",
@@ -2436,8 +2436,7 @@ nodes = (
 "122 66 CURVE",
 "47 182 OFFCURVE",
 "72 311 OFFCURVE",
-"78 400 CURVE",
-"79 564 OFFCURVE"
+"78 400 CURVE"
 );
 },
 {
